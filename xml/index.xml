@@ -15,6 +15,15 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="right" scheme="css">display:block;text-align:right;</rendition>
+        <rendition xml:id="del-x" scheme="css" >text-decoration:line-through;text-decoration-style:wavy;</rendition><!--This is technically an abuse of the <rendition> element, as this CSS does not actually describe how the striking of this word appears in this document. -->
+        <rendition xml:id="del-dbl" scheme="css">text-decoration:line-through;text-decoration-style:double;</rendition>
+        <rendition xml:id="ord" scheme="css">vertical-align:super;font-size:70%;text-decoration:underline;</rendition>
+        <rendition xml:id="sup" scheme="css">vertical-align:super;</rendition>
+      </tagsDecl>
+    </encodingDesc>
   </teiHeader>
   <text>
       <body>
