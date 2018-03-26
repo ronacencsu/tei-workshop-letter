@@ -6,13 +6,13 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Letter from George Bullock to his sister, February 28, 1894</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication information</p>
+            <p>None available</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>None available</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -27,7 +27,13 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+        <opener>
+          <dateline><l>A.+.M. College,</l><l>Raleigh, Feb. 28-'94</l></dateline>
+          <salutation><l>Dear Sister,</l></salutation>
+        </opener>
+         <p><l>Your letter to me</l><l> was received Monday the 19th</l><l>and I was gld to get it too, <del>as</del></l><l>it was the first time your</l><l>letters were more than a week </l><l>part. I dont believe any thing</l><l>unusual has happened since</l><l>I wrote to Lucy the first last</l><l>of the week. We did not have any</l><l>of that snow that you all</l><l>had, we had wind and a little</l><l>snow but did not any ^of the little stay on</l><l>the houses even.</l><l><add>...</add></l>
+         <closer><l>I reckon Walter has written</l><l>you all the news so we</l><l>close with love to all I</l><l>shall ever remain your</l><l>loving Bro.</l></closer>
+         <signed>G. J. Bullock</signed></p>
       </body>
   </text>
 </TEI>
